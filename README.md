@@ -1,6 +1,5 @@
 # Getting Started with the Blazor AppBar Component
 
-**Repository Description**  
 This repository contains a quick‑start Blazor WebAssembly sample that demonstrates how to integrate and customize the Syncfusion Blazor AppBar component in a Blazor application.
 
 A quick‑start project that helps you get started with the Syncfusion AppBar component in a Blazor WebAssembly app. The sample includes example code to change the AppBar size, color, position, and overall design to match different layout requirements.
